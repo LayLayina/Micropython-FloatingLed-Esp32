@@ -14,5 +14,6 @@ Floating Led (Black Lightning) project was made using Micropython and esp32 mode
 
 <h2>Devre Şeması-Circuit Diagram</h2>
 
+![esp32_led](https://user-images.githubusercontent.com/77507576/129407405-8e2c716b-e0bf-41ee-b3d3-1178c4e56f51.PNG)
 
-
+Soru, Gönüş Ve Öneri için İnstagram : arslankasimcan_
